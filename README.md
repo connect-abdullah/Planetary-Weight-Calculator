@@ -13,7 +13,8 @@ This is a simple web application that calculates your weight on different planet
 ---
 
 ## Live Demo
-[Add your live link here]
+You can check out the live version of the app here:  
+[Planetary Weight App] : (https://planetaryweight.netlify.app/)  
 
 ---
 
