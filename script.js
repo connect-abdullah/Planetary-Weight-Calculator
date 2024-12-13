@@ -15,5 +15,5 @@ calBtn.addEventListener('click', function() {
     }
 
    const planetaryWeight =  weight * planet.toFixed(2)
-   return result.innerHTML = `Your Weight Selected Planet is ${planetaryWeight}`
+   return result.innerHTML = `Your Weight Selected Planet is ${planetaryWeight} kg`
 })
